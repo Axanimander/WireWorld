@@ -1,5 +1,9 @@
 ## Simple Implementation of Wire World
 
+# To make it go
+
+* Simply run build.sh
+
 # Instructions
 * Place Conductors with Shift + left-click
 * Place Heads with right-click
@@ -13,5 +17,6 @@
 * Click-n-Drag
 * Completely Accurate Wireworld Simulation
 * An FPS Counter!
+* Theoretically Cross-platform
 
 
