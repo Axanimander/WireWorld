@@ -215,8 +215,8 @@ void Application::updateRect(int x, int y){
 			R->NeedsUpdate = false;
 			break;
 	}
-	v.r = (v.r + static_cast<int>(3 * rw.getView().getRotation()) % 255);
-	v.g = (v.g + static_cast<int>(4 * rw.getView().getRotation()) % 255);
-	v.b = (v.b + static_cast<int>(5 * rw.getView().getRotation()) % 255);
+//	v.r = (v.r + static_cast<int>(3 * rw.getView().getRotation()) % 255);
+//	v.g = (v.g + static_cast<int>(4 * rw.getView().getRotation()) % 255);
+//	v.b = (v.b + static_cast<int>(5 * rw.getView().getRotation()) % 255);
 	R->setFillColor(v);
 }
