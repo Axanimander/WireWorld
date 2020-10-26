@@ -31,6 +31,15 @@ scaled to a much greater size than if every node was simulated at all times
 # Bugs
 * Program will segfault if one tries to place up and to the left, expand down and right
 # Screenshots
+
+
+### It really works
+![Screen4](/readmeres/Wireworld4.gif)
+
+
+### For some reason it rotates too, and is fully interactive
+![Screen5](/readmeres/Wireworld5.gif)
+
 ### Make Wonderful Wire machinations
 ![Screen1](/readmeres/Wireworld1.png)
 
@@ -40,12 +49,7 @@ scaled to a much greater size than if every node was simulated at all times
 ### Zoom in and out of the simulation plane
 ![Screen3](/readmeres/Wireworld3.png)
 
-### It really works
-![Screen4](/readmeres/Wireworld4.gif)
 
-
-### For some reason it rotates too, and is fully interactive
-![Screen5](/readmeres/Wireworld5.gif)
 
 
 
