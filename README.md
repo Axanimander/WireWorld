@@ -40,6 +40,9 @@ scaled to a much greater size than if every node was simulated at all times
 ### Zoom in and out of the simulation plane
 ![Screen3](/readmeres/Wireworld3.png)
 
+### It really works
+![Screen4](/readmeres/Wireworld4.gif)
+
 
 
 
