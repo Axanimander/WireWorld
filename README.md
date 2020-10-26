@@ -1,7 +1,7 @@
 ## Simple Implementation of Wire World
 
 # To make it go
-
+* You probably need to install libsfml-dev on Linux
 * Use Git Bash to run build.sh
 * Type the command `./build.sh buildrun Release`
 
