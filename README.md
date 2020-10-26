@@ -38,18 +38,11 @@ scaled to a much greater size than if every node was simulated at all times
 ### It really works
 ![Screen4](/readmeres/Wireworld4.gif)
 
-
 ### For some reason it rotates too, and is fully interactive
 ![Screen5](/readmeres/Wireworld5.gif)
 
-### Make Wonderful Wire machinations
-![Screen1](/readmeres/Wireworld1.png)
-
-### Rotate the Wonderful Wire Machinations
-![Screen2](/readmeres/Wireworld2.png)
-
 ### Zoom in and out of the simulation plane
-![Screen3](/readmeres/Wireworld3.png)
+![Screen3](/readmeres/Wireworld6.gif)
 
 
 
