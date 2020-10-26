@@ -2,6 +2,7 @@
 
 # To make it go
 * You probably need to install libsfml-dev on Linux
+    * `sudo apt-get install libsfml-dev`
 * Use Git Bash to run build.sh
 * Type the command `./build.sh buildrun Release`
 
